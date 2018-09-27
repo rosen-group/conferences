@@ -21,6 +21,8 @@ company. Looking back to more than 20 years in using Python and Linux,
 he considers him to be an Open Source enthusiast and committed Python
 advocate.
 
+Peer is working as a Software Engineer at the ROSEN Technology & Research Center in Lingen, Germany.
+
 Description
 -----------
 
