@@ -48,9 +48,7 @@ We've found Python to be the ideal foundation to achieve all this and
 started off with a few initial projects in order to prove. It turned out
 Python would be a real game changer for us.
 
-.. raw:: html
-
-   <iframe width="640" height="400" src="https://www.youtube.com/embed/2Ku3tV3QQ3M">
+[![Empowered by Python - A success story](https://img.youtube.com/vi/2Ku3tV3QQ3M/0.jpg)](https://www.youtube.com/embed/2Ku3tV3QQ3M)
 
 .. |image_jens| image:: https://secure.gravatar.com/avatar/dc72d6fd51a6e6adb20592edf8e3c480?s=500
 .. |image_peer| image:: https://s.gravatar.com/avatar/36483f2f1f433027974fc2a80bf9ba9b?s=80
