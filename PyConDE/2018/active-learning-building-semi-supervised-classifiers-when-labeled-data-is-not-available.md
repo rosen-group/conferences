@@ -10,7 +10,7 @@ project.
 Author
 ------
 
-**Dr. Hendrik Niemeyer** (`@hniemeye <http://twitter.com/@hniemeye>`__)
+**Dr. Hendrik Niemeyer** ([@hniemeye](http://twitter.com/hniemeye))
 
 I am a Data Scientist working on applying machine learning solutions to
 sensor data from non-destructive testing of pipelines in order to detect
@@ -34,5 +34,3 @@ possible while achieving high classification accuracy.
 In this talk I will give a general overview of the core concepts and
 techniques of active learning like algorithms for selecting the queries
 and convergence criteria.
-
-.. |image_hendrik| image:: https://secure.gravatar.com/avatar/dc00500a44fb5404e1d5947f2eaee1c3?s=500

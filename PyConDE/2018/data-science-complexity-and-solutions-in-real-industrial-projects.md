@@ -9,7 +9,7 @@ environment.
 Author
 -------
 
-**Artur Miller** (`@arturmillerblog <http://twitter.com/@arturmillerblog>`__)
+**Artur Miller** ([@arturmillerblog](http://twitter.com/@arturmillerblog))
 
 Artur Miller works as Data Scientist for ROSEN Technology & Research
 Center in Lingen, Germany. He has a M.Sc. in Electrical Engineering. His

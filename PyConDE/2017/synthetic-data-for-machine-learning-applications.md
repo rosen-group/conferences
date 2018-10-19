@@ -9,7 +9,7 @@ real and generated data by machine learning methods.
 Author
 ------
 
-**Dr. Hendrik Niemeyer** (`@hniemeye <http://twitter.com/hniemeye>`__)
+**Dr. Hendrik Niemeyer** ([@hniemeye](http://twitter.com/hniemeye))
 
 Data Scientist working on predictive analytics with data from pipeline
 inspection measurements.
@@ -42,8 +42,4 @@ considerations have to be applied when constructing cross validation
 folds and test sets to prevent biased estimates of the model
 performance.
 
-.. raw:: html
-
-   <iframe width="640" height="400" src="https://www.youtube.com/embed/riT9KTkBj0E">
-
-.. |image_hendrik| image:: https://secure.gravatar.com/avatar/dc00500a44fb5404e1d5947f2eaee1c3?s=500
+[![Synthetic Data for Machine Learning Applications](https://img.youtube.com/vi/riT9KTkBj0E/0.jpg)](https://www.youtube.com/embed/riT9KTkBj0E)

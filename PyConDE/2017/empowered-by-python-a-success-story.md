@@ -11,7 +11,7 @@ achieve the same.
 Authors
 -------
 
-**Jens Nie** (`@jneines <http://twitter.com/jneines>`__), **Peer Wagner** (`@wagnerpeer <http://twitter.com/wagnerpeer>`__)
+**Jens Nie** ([@jneines](http://twitter.com/jneines)), **Peer Wagner** ([@wagnerpeer](http://twitter.com/wagnerpeer))
 
 Jens works primarily as a Technology Scout focusing on Big Data and Data
 Science at the ROSEN Technology & Research Center in Lingen, Germany. In
@@ -49,6 +49,3 @@ started off with a few initial projects in order to prove. It turned out
 Python would be a real game changer for us.
 
 [![Empowered by Python - A success story](https://img.youtube.com/vi/2Ku3tV3QQ3M/0.jpg)](https://www.youtube.com/embed/2Ku3tV3QQ3M)
-
-.. |image_jens| image:: https://secure.gravatar.com/avatar/dc72d6fd51a6e6adb20592edf8e3c480?s=500
-.. |image_peer| image:: https://s.gravatar.com/avatar/36483f2f1f433027974fc2a80bf9ba9b?s=80
