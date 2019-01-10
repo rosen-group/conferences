@@ -38,3 +38,5 @@ will point out the importance of understanding your data and give hints
 of how to select your train and test datasets according to the
 requirements. Furthermore, I will show how to get a feature extractor
 out of the classifier and how to visualize it.
+
+[![Experiences from applying Convolutional Neural Networks for classifying 2D sensor data](https://img.youtube.com/vi/Td1iaz_ZouA/0.jpg)](https://www.youtube.com/watch?v=Td1iaz_ZouA)

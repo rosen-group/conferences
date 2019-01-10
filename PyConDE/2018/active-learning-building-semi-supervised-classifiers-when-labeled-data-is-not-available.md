@@ -34,3 +34,5 @@ possible while achieving high classification accuracy.
 In this talk I will give a general overview of the core concepts and
 techniques of active learning like algorithms for selecting the queries
 and convergence criteria.
+
+[![Active Learning - Building Semi-supervised Classifiers when Labeled Data is not Available](https://img.youtube.com/vi/0efyjq5rWS4/0.jpg)](https://www.youtube.com/watch?v=0efyjq5rWS4)

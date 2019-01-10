@@ -34,3 +34,5 @@ data science projects. Each milestone, from finding the business case to
 continuously monitoring the performance of the solution, is addressed.
 This is exemplary shown on a project, with the goal of improving a
 productive system.
+
+[![Data science complexity and solutions in real industrial projects](https://img.youtube.com/vi/bmtGr0LSb_Y/0.jpg)](https://www.youtube.com/watch?v=bmtGr0LSb_Y)
