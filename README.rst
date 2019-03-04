@@ -10,3 +10,8 @@ Conferences
 
   * 2017
   * 2018
+  * 2019
+
+* Symposium Omniscient
+
+  * 2019
