@@ -6,6 +6,10 @@ This repository holds various conference material and information created by ROS
 Conferences
 -----------
 
+* [MeetingC++](./MeetingC++)
+
+  * [2019](./MeetingC++/2019)
+
 * [PyConDE](./PyConDE)
 
   * [2017](./PyConDE/2017)
