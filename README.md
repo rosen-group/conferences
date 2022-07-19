@@ -15,6 +15,7 @@ Conferences
   * [2017](./PyConDE/2017)
   * [2018](./PyConDE/2018)
   * [2019](./PyConDE/2019)
+  * [2022](./PyConDE/2022)
 
 * [PyData](./PyData)
 
