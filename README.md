@@ -10,6 +10,10 @@ Conferences
   * [2021](./ACCU/2021/)
   * [2022](./ACCU/2022/)
 
+* [Cpp On Sea](./CppOnSea/)
+  * [2021](./CppOnSea/2020/)
+  * [2022](./CppOnSea/2022/)
+
 * [MeetingC++](./MeetingC++)
 
   * [2019](./MeetingC++/2019)
