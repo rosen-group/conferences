@@ -8,6 +8,7 @@ Conferences
 
 * [ACCU](./ACCU/)
   * [2021](./ACCU/2021/)
+  * [2022](./ACCU/2022/)
 
 * [MeetingC++](./MeetingC++)
 
