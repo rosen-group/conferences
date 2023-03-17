@@ -16,4 +16,4 @@ I will demonstrate how modules can be used today with the three major compilers 
 
 ## Video
 
-[A Practical Introduction to C++20's Modules](https://youtu.be/tOjZtodXqNQ)
+[![A Practical Introduction to C++20's Modules](https://img.youtube.com/vi/tOjZtodXqNQ/0.jpg)](https://youtu.be/tOjZtodXqNQ)
