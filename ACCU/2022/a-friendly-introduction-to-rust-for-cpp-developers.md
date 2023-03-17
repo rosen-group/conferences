@@ -2,7 +2,7 @@
 
 ## Author
 
-Hendrik is a C++ developer and works on software for analysis of pipeline inspection results. This includes topics like machine learning, numerical mathematics and distributed computing. Before this he completed his PhD in physics at the University of Osnabrück with a thesis about quantum mechanics and + numerical simulations where he got to know and and love programming and complex, mathematical tasks. His favorite programming languages, in which he also has the most experience, are C++ and Rust. He describes himself as a "learning enthusiast"
+Hendrik is a C++ developer and works on software for analysis of pipeline inspection results. This includes topics like machine learning, numerical mathematics and distributed computing. Before this he completed his PhD in physics at the University of Osnabrück with a thesis about quantum mechanics and + numerical simulations where he got to know and love programming and complex, mathematical tasks. His favorite programming languages, in which he also has the most experience, are C++ and Rust. He describes himself as a "learning enthusiast"
 who always gets absorbed in trying out new things. Therefore, he values being up to date with programming languages
 and using the latest features of them in a meaningful way.
 
