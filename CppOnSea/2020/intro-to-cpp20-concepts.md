@@ -14,4 +14,4 @@ This talk is aimed at people with little or no experience with concepts and will
 
 ## Video
 
-[An Introduction to C++20’s Concepts](https://youtu.be/N_kPd2OK1L8)
+[![An Introduction to C++20’s Concepts](https://img.youtube.com/vi/N_kPd2OK1L8/0.jpg)](https://youtu.be/N_kPd2OK1L8)
