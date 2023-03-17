@@ -14,4 +14,4 @@ In this talk, I will introduce Rust and its core principles from the perspective
 
 ## Video
 
-[A Friendly Introduction to Rust](https://youtu.be/NpBk_H7S3zM)
+[![A Friendly Introduction to Rust](https://img.youtube.com/vi/NpBk_H7S3zM/0.jpg)](https://youtu.be/NpBk_H7S3zM)
