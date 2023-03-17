@@ -14,4 +14,4 @@ This talk will give a tour of the new features of templates in C++20 and will di
 
 ## Video
 
-[What Has C++20 Ever Done For Templates?](https://youtu.be/KRx8qQXm0fc)
+[![What Has C++20 Ever Done For Templates?](https://img.youtube.com/vi/KRx8qQXm0fc/0.jpg)](https://youtu.be/KRx8qQXm0fc)
