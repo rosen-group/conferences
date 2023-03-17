@@ -16,4 +16,4 @@ In this talk, I will introduce Rust and its core principles from the perspective
 
 ## Video
 
-[A Friendly Introduction to Rust for C++ Developers](https://youtu.be/o-k3xgV0oBE)
+[![A Friendly Introduction to Rust for C++ Developers](https://img.youtube.com/vi/o-k3xgV0oBE/0.jpg)](https://youtu.be/o-k3xgV0oBE)
