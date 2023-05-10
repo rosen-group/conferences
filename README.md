@@ -21,6 +21,10 @@ Conferences
 
   * [2019](./MeetingC++/2019)
 
+* [PhysiKon](./PhysiKon)
+
+  * [2023](./PhysiKon/2023)
+
 * [PyConDE](./PyConDE)
 
   * [2017](./PyConDE/2017)
